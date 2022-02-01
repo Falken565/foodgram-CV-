@@ -1,0 +1,12 @@
+**
+
+!api/
+!foodgram/
+!users/
+!recipes/
+!media
+!manage.py
+!requirements.txt
+
+.idea/
+__pycache__
