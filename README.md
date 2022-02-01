@@ -1,4 +1,4 @@
-# foodgram - дипломный проект бекэнд разработчика python
+# Foodgram - дипломный проект бекэнд разработчика python
 
 ### Как запустить проект:
 
@@ -20,7 +20,7 @@ git clone git@github.com:Falken565/foodgram-project-react.git
 ```
 
 ```
-cd foodgram-project-react/backend
+cd foodgram-CV-/backend
 ```
 
 Cоздать файл с переменными окружения .env:
